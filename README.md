@@ -134,9 +134,9 @@ Commit your changes.
 Push the branch.
 Create a Pull Request.
 📧 Contact
-Developer: Anan (GitHub: your-github-profile)
-Email: your-email@example.com
+Developer: Aman
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Built with 💙 by Anan for travelers who love to explore!
+Built with 💙 by Anan for travelers who love to explore! 
+
